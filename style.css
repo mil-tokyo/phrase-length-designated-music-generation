@@ -1,0 +1,21 @@
+video {
+	width: 50vw;
+	/* height: 480px; */
+}
+
+@media (min-width: 1024px) {
+	video {
+		width: 640px;
+		/* height: 480px; */
+	}
+}
+	/*
+#player {
+ width: 50%;
+ height: 50%;
+}
+
+audio {
+    transform: scale(0.5);
+}
+/*

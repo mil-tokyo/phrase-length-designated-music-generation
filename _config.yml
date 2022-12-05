@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+
+title: Pop Music Generation with Controllable Phrase Lengths
+description: Daiki Naruse, Tomoyuki Takahata, Yusuke Mukuta, Tatsuya Harada
+repository: mil-tokyo/phrase-length-designated-music-generation
