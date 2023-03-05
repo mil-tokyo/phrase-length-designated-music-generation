@@ -37,7 +37,7 @@ After training, please choose which checkpoint you want to try and change the ch
 - "model-xxx-y.zzz.meta" → "model.meta"
 
 ## Inference
-After changing the phrase configuration in the main.py, run it.
+After changing the phrase configuration in the main.py as necessary, run it.
 ```sh
 python main.py
 ```
