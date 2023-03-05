@@ -49,5 +49,5 @@ python main.py
 https://github.com/YatingMusic/remi
 - POP909 dataset  
 https://github.com/music-x-lab/POP909-Dataset
-- POP909 annotation (Automatic Analysis and Influence of Hierarchical Structure on Melody, Rhythm and Harmony in Popular Music)
+- POP909 annotation (Automatic Analysis and Influence of Hierarchical Structure on Melody, Rhythm and Harmony in Popular Music)  
 https://github.com/Dsqvival/hierarchical-structure-analysis
